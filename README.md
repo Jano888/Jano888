@@ -2,6 +2,7 @@
 
 <h2> Google Cybersecurity Certificate</h2>
 
-<h2>Python for Cybersecurity Projects:</h2>
-
+<h2>Python for Cybersecurity Projects</h2>
+- Google Certificate Python
+- Other Python Projects
 
